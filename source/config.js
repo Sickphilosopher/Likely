@@ -5,6 +5,6 @@
  */
 
 module.exports = {
-    name: 'likely',
-    prefix: 'likely__',
+		name: 'b-likely',
+		prefix: 'b-likely__',
 };
